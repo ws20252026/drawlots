@@ -99,7 +99,6 @@ export const dataPool = [
 
  // --- 主題 4：消費者保護法 (2組) ---
   {
-    id: 12,
     fortune: "消費者保護法-正義守護卡",  //衝動消費
     yi: "審閱契約",
     ji: "衝動消費",
@@ -107,7 +106,7 @@ export const dataPool = [
     tip: "職場生存要誠信，個人消費也要明智。",
   },
   {
-    id: 13,
+    
     fortune: "消費者保護-聰明消費智慧籤", //避免誤入詐騙網站+APP小常識
     yi: "官方商店下載",
     ji: "點擊不明連結",
@@ -117,7 +116,7 @@ export const dataPool = [
  
  // --- 主題 5：透明晶質獎 (1組) ---
   {
-    id: 15,
+   
     fortune: "透明晶質獎",//法務部透明晶質獎簡介
     yi: "廉政良善治理",
     yi: "樹立標竿學習楷模",
@@ -128,7 +127,7 @@ export const dataPool = [
 //---陽光法案---//
  
  {
-    id: 19,
+    
     fortune: "陽光法案-職權清廉警示碑", //反貪-利衝迴避
     yi: "利衝迴避",
     ji: "濫用圖利",
@@ -137,24 +136,23 @@ export const dataPool = [
   },
 
  {
-    id: 31,
+   
     fortune: "陽光法案-防範利衝大師", //陽光-宮廟迴避
     yi: "依法公告",
     ji: "私相補助",
     comic: "https://github.com/ws20252026/drawlots/blob/main/image/%E9%99%BD%E5%85%89%E6%B3%95%E6%A1%88-%E5%AE%AE%E5%BB%9F%E8%BF%B4%E9%81%BF.png?raw=true", 
     tip: "海派可以，違法不行！公職人員身兼民間團體（如宮廟）負責人時，該團體即屬於利衝法的「關係人」。機關若要給予補助，必須經過公開的公告程序，絕不能直接私下撥款。公私要分明，補助要公開，以免利衝法重罰上門。"
-}
+},
 
 
  //---反貪--//
   {
-    id: 20,
     fortune: "反貪宣導不動如山清廉心",//反貪-工程監造與不法報酬
     yi: "依法行政",
     ji: "接受請託",
     comic: "https://github.com/ws20252026/drawlots/blob/main/image/%E5%8F%8D%E8%B2%AA-%E5%B7%A5%E7%A8%8B%E7%9B%A3%E9%80%A0%E8%88%87%E4%B8%8D%E6%B3%95%E5%A0%B1%E9%85%AC.png?raw=true", 
     tip: "嚴禁利用職務，貪圖不法利益。更不可假借公務刁難而主動索賄。"
-
+},
 
 //---公益揭弊者--//
 
@@ -164,14 +162,19 @@ export const dataPool = [
  
 //--- 主題 ：反賄選 (2組) ---
 {
-    id: 31,
-    fortune: "民主基石守護卡",//反賄選海報
+    fortune: "反賄選-民主基石守護卡",//反賄選海報
     yi: "撥打檢舉賄選專線0800-024-099",
     ji: "收受賄絡", 
     comic: "https://github.com/ws20252026/drawlots/blob/main/image/%E6%B3%95%E5%8B%99%E9%83%A8_%E5%8F%8D%E8%B3%84%E9%81%B8%E6%B5%B7%E5%A0%B1_a_a1.jpg?raw=true", 
     tip: "不會選才是真賄選"
+},
+  {
+    fortune: "反賄選-乾淨政治導航員", //反賄選-旅遊招待
+    yi: "乾淨選風",
+    ji: "旅遊招待",
+    comic: "https://github.com/ws20252026/drawlots/blob/main/image/%E5%8F%8D%E8%B3%84%E9%81%B8-%E6%97%85%E9%81%8A%E6%8B%9B%E5%BE%85.png?raw=true", 
+    tip: "天下沒有免費的午餐，更沒有免費的旅遊！選舉期間，候選人以「免車資、包便當」等名義招待選民出遊，並在行程中進行競選宣傳、請求投票支持，已涉嫌觸犯《公職人員選舉罷免法》之賄選罪。拒絕不正利益，守護乾淨選風，才是真正的民主價值。"
   }
-
 
 
 
