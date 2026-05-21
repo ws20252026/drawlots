@@ -170,8 +170,7 @@ export const dataPool = [
     ji: "收受賄絡", 
     comic: "https://github.com/ws20252026/drawlots/blob/main/image/%E6%B3%95%E5%8B%99%E9%83%A8_%E5%8F%8D%E8%B3%84%E9%81%B8%E6%B5%B7%E5%A0%B1_a_a1.jpg?raw=true", 
     tip: "不會選才是真賄選"
-  },
-
+  }
 
 
 
