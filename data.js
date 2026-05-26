@@ -173,7 +173,7 @@ export const dataPool = [
     ji: "接受招待、違背職務",
     comic: "https://raw.githubusercontent.com/ws20252026/drawlots/refs/heads/main/image/%E5%BB%89%E6%94%BF%E5%80%AB%E7%90%86%E8%A6%8F%E7%AF%84-%E9%A3%B2%E5%AE%B4%E6%87%89%E9%85%AC.png", 
     tip: "公務員不得參加與職務有利害關係者之飲宴應酬。不僅違反廉政倫理規範，更有觸犯《貪污治罪條例》之受賄風險。面對邀宴應予以拒絕，必要時應簽報長官並知會政風，唯有落實廉潔分際，才能杜絕貪腐陋規，守護職涯安全。
-  },
+  }
 
   
 ];
