@@ -136,7 +136,7 @@ export const dataPool = [
     fortune: "清廉無瑕如意籤",
     yi: "實報實銷",
     ji: "冒名核銷",
-    comic: "comic_case_01.jpg",
+    comic: "https://raw.githubusercontent.com/ws20252026/drawlots/refs/heads/main/image/%E5%8F%8D%E8%B2%AA-%E5%AF%A6%E5%A0%B1%E5%AF%A6%E9%8A%B7.png",
     tip: "公費補助應專款專用、實報實銷。里鄰長自強活動若有鄰長無法參加，絕不可偽造名冊、利用餐敘騙取簽名來虛報人數。此舉已違反《貪污治罪條例》利用職務詐取財物罪及《刑法》偽造文書罪，切勿因一時貪念自毀前程。",
   },
   
