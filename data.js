@@ -113,7 +113,7 @@ export const dataPool = [
     fortune: "陽光法案-職權清廉警示碑",
     yi: "利衝迴避",
     ji: "濫用圖利",
-    comic: "https://github.com/ws20252026/drawlots/raw/main/image/反貪-利衝迴避.png",
+    comic: "https://raw.githubusercontent.com/ws20252026/drawlots/refs/heads/main/image/%E5%8F%8D%E8%B2%AA-%E5%88%A9%E8%A1%9D%E8%BF%B4%E9%81%BF%20(2).png",
     tip: "公職人員於執行職務過程中，擁有相關權力或裁量權，因此容易遇到有圖利自己或他人機會。案例中民代以其身分兼廠商代表參加工程複驗，使女婿的「友門神土木包工業」通過驗收，未恪遵迴避規定並使其獲得財產上利益，而遭到裁罰。...",
   },
   {
