@@ -1,36 +1,36 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>公務生涯護身符</title>
+    <meta charset="UTF-8">
     <link rel="stylesheet" href="styles.css">
+    <title>公務生涯護身符</title>
 </head>
 <body>
     <div class="header">
         <h1>公務生涯護身符</h1>
         <p>點擊燈籠，領取今日職場智慧</p>
-        <div id="shaker" class="shaker">🏮</div>
     </div>
+
+    <div class="shaker" id="lantern">🏮</div>
 
     <div id="result-section">
-        <div class="fortune-title" id="display-fortune"></div>
+        <h2 id="fortune-title"></h2>
         <div class="yi-ji-container">
-            <div class="box yi"><b>【宜】</b><br /><span id="display-yi"></span></div>
-            <div class="box ji"><b>【忌】</b><br /><span id="display-ji"></span></div>
+            <div class="box yi"><strong style="color:#2e7d32;">宜：</strong><br><span id="yi-text"></span></div>
+            <div class="box ji"><strong style="color:#c62828;">忌：</strong><br><span id="ji-text"></span></div>
         </div>
-        <img id="display-comic" src="" class="comic-image" />
-        <div class="legal-tip"><b>💡 職場避雷針：</b><br /><span id="display-tip"></span></div>
-        <button class="retry-btn" onclick="location.reload()">重新求籤</button>
+        <img id="comic-img" class="comic-image" src="" alt="comic">
+        <div class="legal-tip" id="tip-text"></div>
+        <button class="retry-btn" onclick="location.reload()">再抽一次</button>
     </div>
 
-    <!-- 移出到結果區塊外，使其固定顯示 -->
     <div class="footer-box">
-        <p><b>文山區公所政風室 自製</b></p>
+        <div class="footer-title"><strong>文山區公所政風室 自製</strong></div>
         <small>參考資料：法務部廉政署公務員行政責任案例彙編、臺北市政府政風處防貪指引案例、公職人員利益衝突迴避法案例彙編手冊</small>
         <small>特別感謝：臺北市政府警察局文山第二分局偵查隊警務員周洛安提供相關資料</small>
     </div>
 
-    <script type="module" src="app.js"></script>
+    <script src="data.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
