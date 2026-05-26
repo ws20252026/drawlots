@@ -139,7 +139,7 @@ export const dataPool = [
     yi: "撥打檢舉賄選專線0800-024-099",
     ji: "收受賄絡",
     comic: "https://github.com/ws20252026/drawlots/raw/main/image/法務部_反賄選海報_a_a1.jpg",
-    tip: "不會選才是真賄選",
+    tip: "不賄選才是真賄選",
   },
   {
     fortune: "反賄選-乾淨政治導航員",
