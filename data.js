@@ -162,7 +162,7 @@ export const dataPool = [
     fortune: "公益揭弊者保護法-挺身守護公益",
     yi: "具名檢舉、保存事證",
     ji: "隱忍不法、知情包庇",
-    comic: "https://raw.githubusercontent.com/你的帳號/儲存庫名稱/main/sunlight_03.jpg", 
+    comic: "https://raw.githubusercontent.com/ws20252026/drawlots/refs/heads/main/image/%E5%BB%89%E6%94%BF%E5%80%AB%E7%90%86%E8%A6%8F%E7%AF%84-%E9%A3%B2%E5%AE%B4%E6%87%89%E9%85%AC.png", 
     tip: "若發現泛公部門人員涉及貪污或損害公益行為，依法向受理機關具名檢舉，法律提供工作保障、人身保護與身分保密三大措施。揭弊後若遭受不利措施，法律設有舉證責任倒置與程序保障，捍衛您的權益。
   },
 
