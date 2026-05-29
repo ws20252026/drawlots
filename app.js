@@ -27,7 +27,7 @@ function displayFortune() {
     document.getElementById('fortune-title').innerText = item.fortune;
     document.getElementById('yi-text').innerText = item.yi;
     document.getElementById('ji-text').innerText = item.ji;
-    document.getElementById('tip-text').innerText = item.tip;
+    document.getElementById('tip-text').innerHTML = item.tip;
     
     const comicImg = document.getElementById('comic-img');
     comicImg.src = item.comic;
