@@ -163,6 +163,14 @@ export const dataPool = [
     comic: "https://github.com/ws20252026/drawlots/blob/main/image/%E5%85%AC%E7%9B%8A%E6%8F%AD%E5%BC%8A%E8%80%85%E4%BF%9D%E8%AD%B7%E6%B3%95%E6%91%BA%E9%A0%81%E8%83%8C%E9%9D%A2.jpg?raw=true",
     tip: "若發現泛公部門人員涉及貪污或損害公益行為，依法向受理機關具名檢舉，法律提供工作保障、人身保護與身分保密三大措施。",
   },
+  //--- 行政中立 ---
+  {
+    fortune: "行政中立-社群媒體藏風險",
+    yi: "下班使用私人設備、謹慎言論",
+    ji: "上班時間、具職稱公開表態",
+    comic: "https://github.com/ws20252026/drawlots/raw/main/image/社交媒體-行政中立.png",
+    tip: "下班時間可連結社交網站，但應避免具銜或具名發表政黨、候選人偏好言論。公務員的身分，應在網路上保持適度的專業距離。",
+  },
 
   // --- 廉政倫理規範 ---
   {
