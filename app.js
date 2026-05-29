@@ -1,3 +1,6 @@
+import { dataPool } from './data.js';
+
+
 // 綁定燈籠點擊事件
 document.getElementById('lantern').addEventListener('click', function() {
     const lantern = this;
