@@ -18,7 +18,7 @@ export const dataPool = [
     fortune: "赴陸交流安全提示",
     yi: "行前報備；攜帶空白、沒有敏感機密資料的手機",
     ji: "隱蔽不報",
-    comic: "comic_case_01.jpg", 
+    comic: "https://raw.githubusercontent.com/ws20252026/drawlots/refs/heads/main/image/%E5%85%AC%E5%8B%99%E5%93%A1%E8%B5%B4%E5%A4%A7%E9%99%B8-%E6%B7%B1%E5%A4%9C%E9%81%AD%E7%9B%A4%E6%9F%A5.png", 
     tip: "近期公務員赴陸頻遭不明盤問，並被要求說明個人背景與公務經歷。提醒赴陸交流務必落實行前申報，保持警覺，切勿隨意受訪或洩漏公務機密。",
   },
 
