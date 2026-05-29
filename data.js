@@ -35,7 +35,7 @@ export const dataPool = [
     yi: "嚴守職守",
     ji: "洩漏底價",
     comic: "https://github.com/ws20252026/drawlots/raw/main/image/公務機密-保密之廠商投標文件案.png",
-    tip: "採購底價是不可觸碰的紅線。一時「熱心」告知，可能換來法律追訴。",
+    tip: "一時「熱心」告知，可能換來法律追訴。",
   },
   {
     fortune: "公務機密-資料外洩",
