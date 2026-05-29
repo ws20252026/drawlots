@@ -168,7 +168,7 @@ export const dataPool = [
     fortune: "行政中立-社群媒體藏風險",
     yi: "下班使用私人設備、謹慎言論",
     ji: "上班時間、具職稱公開表態",
-    comic: "https://github.com/ws20252026/drawlots/raw/main/image/社交媒體-行政中立.png",
+    comic: "https://github.com/ws20252026/drawlots/blob/main/image/%E8%A1%8C%E6%94%BF%E4%B8%AD%E7%AB%8B-%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94%E8%97%8F%E9%A2%A8%E9%9A%AA.png?raw=true",
     tip: "下班時間可連結社交網站，但應避免具銜或具名發表政黨、候選人偏好言論。公務員的身分，應在網路上保持適度的專業距離。",
   },
 
