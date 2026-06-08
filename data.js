@@ -33,7 +33,7 @@ export const dataPool = [
   {
     fortune: "公務機密-採購公正官靈籤",
     yi: "嚴守職守",
-    ji: "洩漏底價",
+    ji: "洩漏資訊",
     comic: "https://github.com/ws20252026/drawlots/raw/main/image/公務機密-保密之廠商投標文件案.png",
     tip: "一時「熱心」告知，可能換來法律追訴。",
   },
