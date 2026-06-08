@@ -19,8 +19,8 @@ body {
 
 #result-section { 
     display: none; 
-    width: 90%; 
-    max-width: 500px; 
+    width: 95%; 
+    max-width: 650px; 
     background: var(--paper-bg); 
     border-top: 8px solid var(--primary-red); 
     border-radius: 15px; 
@@ -73,7 +73,8 @@ body {
 .comic-wrapper {
     position: relative;
     width: 100%;
-    min-height: 200px; /* 預留高度，防止圖片載入時畫面跳動 */
+    /* 將 min-height 改為 auto，讓高度根據內容自動伸縮，但保留最小高度 */
+    min-height: 200px; 
     background-color: #f9f9f9;
     border: 1px solid #ddd;
     border-radius: 8px;
@@ -82,20 +83,24 @@ body {
     align-items: center;
     margin-bottom: 15px;
     overflow: hidden;
+    /* 這裡新增這行，可以確保容器即便在圖片放大時，也能保持良好的顯示效果 */
+    padding: 5px; 
 }
 
+/* 確保載入中的文字不會影響排版 */
 .loading-box {
     position: absolute;
     color: #888;
     font-size: 14px;
-    z-index: 0; /* 讓文字在圖片下方 */
+    z-index: 0;
 }
 
-/* 確保圖片正確疊在載入文字上方 */
+/* 這是控制圖片行為的關鍵 */
 .comic-image { 
-    width: 100%; 
+    width: 100%; /* 確保圖片寬度與容器同寬 */
+    height: auto; /* 確保高度隨比例自動縮放，不會變形 */
     display: block;
     position: relative;
-    z-index: 1; /* 圖片載入後會蓋住文字 */
-    transition: opacity 0.3s ease; /* 讓圖片顯示時更平滑 */
+    z-index: 1;
+    transition: opacity 0.3s ease;
 }
