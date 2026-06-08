@@ -66,3 +66,36 @@ body {
     background-color: #fffaf0; 
 }
 .footer-box small { display: block; margin-top: 8px; color: #333; line-height: 1.4; }
+
+
+
+/* 漫畫載入中的容器樣式 */
+.comic-wrapper {
+    position: relative;
+    width: 100%;
+    min-height: 200px; /* 預留高度，防止圖片載入時畫面跳動 */
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+    overflow: hidden;
+}
+
+.loading-box {
+    position: absolute;
+    color: #888;
+    font-size: 14px;
+    z-index: 0; /* 讓文字在圖片下方 */
+}
+
+/* 確保圖片正確疊在載入文字上方 */
+.comic-image { 
+    width: 100%; 
+    display: block;
+    position: relative;
+    z-index: 1; /* 圖片載入後會蓋住文字 */
+    transition: opacity 0.3s ease; /* 讓圖片顯示時更平滑 */
+}
