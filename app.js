@@ -23,14 +23,29 @@ function displayFortune() {
     const randomIndex = Math.floor(Math.random() * dataPool.length);
     const item = dataPool[randomIndex];
     
-    // 寫入內容
+    // 寫入文字內容
     document.getElementById('fortune-title').innerText = item.fortune;
     document.getElementById('yi-text').innerText = item.yi;
     document.getElementById('ji-text').innerText = item.ji;
     document.getElementById('tip-text').innerHTML = item.tip;
     
+    // --- 新增：處理漫畫載入提示的邏輯 ---
     const comicImg = document.getElementById('comic-img');
+    const placeholder = document.getElementById('loading-placeholder');
+
+    // 1. 初始化顯示狀態：顯示「載入中」，隱藏圖片
+    placeholder.style.display = 'flex'; 
+    comicImg.style.opacity = '0'; 
+    
+    // 2. 設定圖片來源
     comicImg.src = item.comic;
+    
+    // 3. 圖片載入完成後隱藏提示框
+    comicImg.onload = function() {
+        placeholder.style.display = 'none';
+        comicImg.style.opacity = '1';
+    };
+    // --- 新增結束 ---
     
     // 顯示區塊並捲動
     const resultSection = document.getElementById('result-section');
