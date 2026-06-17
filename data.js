@@ -75,7 +75,7 @@ export const dataPool = [
     yi: "感情可以談",
     ji: "眼見為憑",
     comic: "https://github.com/ws20252026/drawlots/raw/main/image/反詐騙-網路交友.png",
-    tip: "<b>網路世界真假難辨，你以為的「他」不是「他」!</b><hr style='border: 1px dashed #b22222; margin: 15px 0;'>✅解：不被溫柔攻勢沖昏頭。保持清醒，可將對方的照片以圖搜圖確認是否為本人。<br>（圖源：文山第二分局偵查隊 周警務員）",
+    tip: "<b>網路世界真假難辨，你以為的「他」不是「他」!</b><hr style='border: 1px dashed #b22222; margin: 15px 0;'>✅解：不被溫柔攻勢沖昏頭。保持清醒，可將對方的照片「以圖搜圖」確認是否為本人。<br>（圖源：文山第二分局偵查隊 周警務員）",
   },
   {
     fortune: "反詐騙-不動如山清廉心",
