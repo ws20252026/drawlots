@@ -68,14 +68,14 @@ export const dataPool = [
     yi: "小心確認",
     ji: "點擊簡訊",
     comic: "https://raw.githubusercontent.com/ws20252026/drawlots/refs/heads/main/image/%E5%8F%8D%E8%A9%90%E9%A8%99-%E5%81%87%E8%A3%9C%E5%8A%A9%E8%88%87%E6%9F%A5%E8%AD%89%E6%96%B9%E5%BC%8F.png",
-    tip: "收到補助的電郵、簡訊，帳單的催繳，可能是假的，<br>✅解：「先向公務機關官方網站、查證平台/組織查證!!」<br>（圖源：文山第二分局偵查隊 周警務員）",
+    tip: "<b>收到補助的電郵、簡訊，帳單的催繳，可能是假的。</b><hr style='border: 1px dashed #b22222; margin: 15px 0;'>✅解：「先向公務機關官方網站、查證平台/組織查證!!」<br>（圖源：文山第二分局偵查隊 周警務員）",
   },
   {
     fortune: "反詐騙-防詐明辨大師",
     yi: "感情可以談",
     ji: "眼見為憑",
     comic: "https://github.com/ws20252026/drawlots/raw/main/image/反詐騙-網路交友.png",
-    tip: "網路世界真假難辨，你以為的「他」不是「他」!<br>✅解：不被溫柔攻勢沖昏頭。保持清醒，可將對方的照片以圖搜圖確認是否為本人。<br>（圖源：文山第二分局偵查隊 周警務員）",
+    tip: "<b>網路世界真假難辨，你以為的「他」不是「他」!</b><hr style='border: 1px dashed #b22222; margin: 15px 0;'>✅解：不被溫柔攻勢沖昏頭。保持清醒，可將對方的照片以圖搜圖確認是否為本人。<br>（圖源：文山第二分局偵查隊 周警務員）",
   },
   {
     fortune: "反詐騙-不動如山清廉心",
