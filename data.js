@@ -52,7 +52,7 @@ export const dataPool = [
     yi: "定期更換",
     ji: "便箋貼桌",
     comic: "https://github.com/ws20252026/drawlots/raw/main/image/公務機密-密碼貼桌上.png",
-    tip: "電腦密碼不外流，切勿將密碼張貼於桌面或電腦周圍。守護資訊安全，就是守護自己的職涯。<hr style='border: 1px dashed #b22222; margin: 15px 0;'><br>相關新聞：<a href='https://tw.news.yahoo.com/share/1436062b-2c70-333e-9c58-2d3e8917b821' target='_blank' style='color: #b22222; text-decoration: underline; font-weight: bold;'>律師大膽潛入法院偷用電腦多次竊取司法資料遭判刑</a>：由於寫有密碼的紙條就貼在電腦旁，熟練地輸入密碼成功開啟電腦，企圖查詢法院內部資料。"
+    tip: "電腦密碼不外流，切勿將密碼張貼於桌面或電腦周圍。守護資訊安全，就是守護自己的職涯。<hr style='border: 1px dashed #b22222; margin: 15px 0;'><br>🔍相關案例：某法院同仁將寫有密碼的紙條就貼在電腦旁，而讓其他人熟練地輸入密碼成功開啟電腦，企圖查詢法院內部資料。"
   },
 
   // --- 主題 3：反詐騙 ---
