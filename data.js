@@ -18,7 +18,7 @@ export const dataPool = [
     tip: "與特定人員接觸應落實記錄。透明的行程，是公務生涯最好的保險。",
   },
   {
-    fortune: "赴陸交流安全提示",
+    fortune: "公務員赴大陸-赴陸交流安全提示",
     yi: "行前報備；攜帶空白、沒有敏感機密資料的手機",
     ji: "隱蔽不報",
     comic: "https://github.com/ws20252026/drawlots/blob/main/image/%E5%85%AC%E5%8B%99%E5%93%A1%E8%B5%B4%E5%A4%A7%E9%99%B8-%E6%B7%B1%E5%A4%9C%E9%81%AD%E7%9B%A4%E6%9F%A5%20(2).png?raw=true", 
@@ -71,14 +71,14 @@ export const dataPool = [
     tip: "收到補助的電郵、簡訊，帳單的催繳，可能是假的，<br>✅解：「先向公務機關官方網站、查證平台/組織查證!!」<br>（圖源：文山第二分局偵查隊 周警務員）",
   },
   {
-    fortune: "防詐明辨大師",
+    fortune: "反詐騙-防詐明辨大師",
     yi: "感情可以談",
     ji: "眼見為憑",
     comic: "https://github.com/ws20252026/drawlots/raw/main/image/反詐騙-網路交友.png",
     tip: "網路世界真假難辨，你以為的「他」不是「他」!<br>✅解：不被溫柔攻勢沖昏頭。保持清醒，可將對方的照片以圖搜圖確認是否為本人。<br>（圖源：文山第二分局偵查隊 周警務員）",
   },
   {
-    fortune: "不動如山清廉心",
+    fortune: "反詐騙-不動如山清廉心",
     yi: "防詐警覺",
     ji: "貪圖利息",
     comic: "https://github.com/ws20252026/drawlots/raw/main/image/反詐騙-投資詐騙.png",
@@ -135,7 +135,7 @@ export const dataPool = [
     tip: "<b>嚴禁利用職務，貪圖不法利益。更不可假借公務刁難而主動索賄。</b><hr style='border: 1px dashed #b22222; margin: 15px 0;'><b>🔍案例：</b><br>甲為「○○改善工程」主辦人員，負責監造及督導等工作。<br>本工程依合約規定，乙廠商應限期提交相關計畫書，否則將遭逾期罰款處分，惟乙廠商因文書資料不全，屢遭甲退回。<br>乙廠商為避免逾期罰款，於遞交計畫書時，夾藏新臺幣5萬元現金，甲收至辦公室抽屜後，遂協助乙廠商通過審查。<br>又本工程辦理施工查核時，發現諸多缺失，經要求乙廠商立即改善，惟後續工程缺失之督檢報告始終未通過審核，造成施工進度嚴重落後。<br>甲曾以電話聯絡乙廠商表示，前已繳交督檢報告不符規定，渠可協助製作報告及估驗請款之施工日報等文件，惟應給予報酬11萬元。<br>嗣後，甲告知乙廠商，因工程進度落後不同意辦理估驗請款事宜，乙廠商遂認為甲係未收到賄款而藉機刁難，故為順利請款，分次交付賄款予甲計12萬元。 ",
   },
   {
-    fortune: "清廉無瑕如意籤",
+    fortune: "反貪宣導-清廉無瑕如意籤",
     yi: "實報實銷",
     ji: "冒名核銷",
     comic: "https://raw.githubusercontent.com/ws20252026/drawlots/refs/heads/main/image/%E5%8F%8D%E8%B2%AA-%E5%AF%A6%E5%A0%B1%E5%AF%A6%E9%8A%B7.png",
@@ -177,7 +177,7 @@ export const dataPool = [
 
   // --- 廉政倫理規範 ---
   {
-    fortune: "飲宴應酬",
+    fortune: "廉政倫理規範-飲宴應酬",
     yi: "嚴守分際、知會政風",
     ji: "接受招待、違背職務",
     comic: "https://raw.githubusercontent.com/ws20252026/drawlots/refs/heads/main/image/%E5%BB%89%E6%94%BF%E5%80%AB%E7%90%86%E8%A6%8F%E7%AF%84-%E9%A3%B2%E5%AE%B4%E6%87%89%E9%85%AC.png",
