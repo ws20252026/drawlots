@@ -22,7 +22,7 @@ export const dataPool = [
     yi: "行前報備；攜帶空白、沒有敏感機密資料的手機",
     ji: "隱蔽不報",
     comic: "https://github.com/ws20252026/drawlots/blob/main/image/%E5%85%AC%E5%8B%99%E5%93%A1%E8%B5%B4%E5%A4%A7%E9%99%B8-%E6%B7%B1%E5%A4%9C%E9%81%AD%E7%9B%A4%E6%9F%A5%20(2).png?raw=true", 
-    tip: "近期公務員赴陸頻遭不明盤問，並被要求說明個人背景與公務經歷。<br><b>⚠️提醒：</b><br>赴陸交流務必落實行前申報，保持警覺，切勿隨意受訪或洩漏公務機密。或可攜帶沒有敏感機密資料的手機<br>相關新聞：<a href='https://www.cna.com.tw/news/acn/202605070311.aspx' target='_blank' style='color: #b22222;'>再有公務員赴陸被盤查　陸委會：被盤問2至4小時</a>",
+    tip: "近期公務員赴陸頻遭不明盤問，並被要求說明個人背景與公務經歷。<br><b>⚠️提醒：</b><br>赴陸交流務必落實行前申報，保持警覺，切勿隨意受訪或洩漏公務機密。或可攜帶沒有敏感機密資料的手機。<br><br>相關新聞：<a href='https://www.cna.com.tw/news/acn/202605070311.aspx' target='_blank' style='color: #b22222;'>再有公務員赴陸被盤查　陸委會：被盤問2至4小時</a>",
   },
 
   // --- 主題 2：公務機密 ---
