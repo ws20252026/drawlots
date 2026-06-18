@@ -151,7 +151,7 @@ export const dataPool = [
     tip: "不賄選才是真賄選。",
   },
   {
-    fortune: "反賄選-乾淨政治導航員",
+    fortune: "反賄選-乾淨選舉導航員",
     yi: "乾淨選風",
     ji: "接受不正利益",
     comic: "https://github.com/ws20252026/drawlots/raw/main/image/反賄選-旅遊招待.png",
