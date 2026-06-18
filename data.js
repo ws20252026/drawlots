@@ -68,7 +68,7 @@ export const dataPool = [
     yi: "小心確認",
     ji: "點擊簡訊",
     comic: "https://raw.githubusercontent.com/ws20252026/drawlots/refs/heads/main/image/%E5%8F%8D%E8%A9%90%E9%A8%99-%E5%81%87%E8%A3%9C%E5%8A%A9%E8%88%87%E6%9F%A5%E8%AD%89%E6%96%B9%E5%BC%8F.png",
-    tip: "<b>收到補助的電郵、簡訊，帳單的催繳，可能是假的。</b><hr style='border: 1px dashed #b22222; margin: 15px 0;'><b>✅解：</b><br>「先向公務機關官方網站、查證平台/組織查證!!」<br>（圖源：文山第二分局偵查隊 周警務員）",
+    tip: "<b>收到補助的電郵、簡訊，帳單的催繳，可能是假的。</b><hr style='border: 1px dashed #b22222; margin: 15px 0;'><b>✅解：</b><br><b>「先向公務機關官方網站、查證平台/組織查證!!」</b><br>（圖源：文山第二分局偵查隊 周警務員）",
   },
   {
     fortune: "反詐騙-防詐明辨大師",
