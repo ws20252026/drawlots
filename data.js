@@ -171,7 +171,7 @@ export const dataPool = [
     fortune: "進擊的-公益揭弊者保護法",
     yi: "具名檢舉",
     ji: "隱忍不法",
-comic:"github.com/ws20252026/drawlots/blob/main/image/進擊的公益揭弊者保護法.png?raw=true",
+comic:"https://raw.githubusercontent.com/ws20252026/drawlots/refs/heads/main/image/%E9%80%B2%E6%93%8A%E7%9A%84%E5%85%AC%E7%9B%8A%E6%8F%AD%E5%BC%8A%E8%80%85%E4%BF%9D%E8%AD%B7%E6%B3%95.png",
     tip: "當發現長官利用職務之便違法時，請勿衝動，保障自己安全。法律將保障您的身分與權益。依法向受理機關具名檢舉，法律提供工作保障、人身保護與身分保密三大措施。<hr style='border: 1px dashed #b22222; margin: 15px 0;'>該士兵是公務員，屬於「公益揭弊者保護法」的揭弊人，所被揭弊的前輩也是泛公部門之人（含公部門、特定事業、團體或機構）。而前輩與商會勾結並販賣不法物資，如果屬於「公益揭弊者保護法」第3條的「弊案」此時，該士兵「具名」向規定的「受理揭弊機關」提出揭弊……<br>該士兵享有「3保1減1金」1.工作保障2.人身保護3.身分保密4.	責任減免5.	揭弊獎金",
   },
   
