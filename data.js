@@ -84,7 +84,13 @@ export const dataPool = [
     comic: "https://github.com/ws20252026/drawlots/raw/main/image/反詐騙-投資詐騙.png",
     tip: "高獲利、零風險的投資多是騙局。保持清廉心境，貪念不動，騙術不靈。",
   },
-
+ {
+    fortune: "反詐騙-不動如山清廉心",
+    yi: "防詐警覺",
+    ji: "貪圖利息",
+    comic: "https://github.com/ws20252026/drawlots/raw/main/image/反詐騙-投資詐騙.png",
+    tip: "文山區公所未有以「臺北市文山區公所」名稱所設立之Facebook臉書粉專及Line官方帳號",
+  },
   // --- 主題 4：消費者保護 ---
   {
     fortune: "消費者保護法-正義守護卡",
