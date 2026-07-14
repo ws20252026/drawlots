@@ -151,7 +151,7 @@ export const dataPool = [
   // --- 反賄選 ---
   {
     fortune: "反賄選-民主基石守護卡",
-    yi: "撥打檢舉賄選專線0800-024-099",
+    yi: "撥打檢舉賄選專線0800-024-099#4",
     ji: "收受賄絡",
     comic: "https://github.com/ws20252026/drawlots/blob/main/image/%E5%8F%8D%E8%B3%84%E9%81%B8%E6%B5%B7%E5%A0%B1.png?raw=true",
     tip: "不賄選才是真賄選。",
